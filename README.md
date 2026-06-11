@@ -12,7 +12,7 @@ Kraków, Poland · [LinkedIn](https://linkedin.com/in/aleksander-szczygielski-50
 
 **[argo_website](https://github.com/AlexSzczygielski/argo_website)** — live at [argo.agh.edu.pl](https://argo.agh.edu.pl)
 
-Website + custom CMS for the AGH sailing club I founded and preside over. Vanilla PHP + MySQL: bcrypt auth, role-based draft→approval→publish workflow, rich-text editing with live preview, hardened image-upload pipeline. Deployed by GitHub Actions **through an OpenVPN tunnel** into the university network, with a **PR-gated reverse sync** so the CMS publishes content without ever touching git.
+Website + custom CMS for the AGH regatta club I founded and preside over. Vanilla PHP + MySQL: bcrypt auth, role-based draft→approval→publish workflow, rich-text editing with live preview, hardened image-upload pipeline. Deployed by GitHub Actions **through an OpenVPN tunnel** into the university network, with a **PR-gated reverse sync** so the CMS publishes content without ever touching git.
 
 `PHP` `MySQL` `JavaScript` `GitHub Actions` `OpenVPN` `rsync`
 
@@ -34,7 +34,7 @@ Website + custom CMS for the AGH sailing club I founded and preside over. Vanill
 
 ## Tools I reach for
 
-`Python` `PHP` `C#` `C++` `SQL (MySQL/SQLite)` `Bash` `JavaScript` · `Git` `Docker` `GitHub Actions` `Linux` · `Raspberry Pi` `FPGA`
+`Python` `PHP` `C#` `C++` `SQL (MySQL/SQLite)` `Bash` `JavaScript` · `Git` `Docker` `GitHub Actions` `Linux` · `Raspberry Pi`
 
 ---
 
@@ -45,6 +45,6 @@ Sailing coach and instructor since 2021; I compete for AGH in national academic 
 
 </details>
 
-<!-- Optional: GitHub stats card — uncomment if you like the look
+<!-- Optional: GitHub stats card
 ![Stats](https://github-readme-stats.vercel.app/api?username=AlexSzczygielski&show_icons=true&theme=default&rank_icon=github)
 -->
