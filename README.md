@@ -4,7 +4,7 @@
 
 I like owning things end-to-end: my club's website runs in production on code, infrastructure, and deployment pipelines I built solo, and my engineering thesis put a custom-trained vision model on a Raspberry Pi in a 3D-printed enclosure. Currently looking for a **software engineering internship / working-student role**.
 
-Kraków, Poland · [LinkedIn](www.linkedin.com/in/aleksander-szczygielski-505821367)
+Kraków, Poland · [LinkedIn](https://linkedin.com/in/aleksander-szczygielski-505821367)
 
 ---
 
