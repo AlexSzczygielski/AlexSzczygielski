@@ -24,6 +24,7 @@ Website + custom CMS for the AGH regatta club I founded and preside over. Vanill
 | [vps-wake-on-lan-no-ssh](https://github.com/AlexSzczygielski/vps-wake-on-lan-no-ssh) | Remote power-on for a home PC via a VPS relay — **zero open ports** on the home network. Flask REST backend, systemd-managed daemons. | `Python` `Flask` `Linux` `systemd` |
 | [custom-knn](https://github.com/AlexSzczygielski/custom-knn) | k-NN classifier from scratch, benchmarked against scikit-learn; packaged with PyScaffold, tested with pytest in CI. | `Python` `NumPy` `pytest` |
 | [first-model-omega-boat-deck](https://github.com/AlexSzczygielski/first-model-omega-boat-deck) | First custom YOLO segmentation model — detecting boat decks in photos, trained in Colab. | `Python` `YOLO` `Colab` |
+| [spoolman-scale](https://github.com/AGHRapidPro/spoolman-scale) | **Co-authored** — ESP32 smart scale that identifies 3D printer filament spools by RFID tags and auto-syncs remaining weight to a self-hosted filaments database - a [Spoolman instance](https://github.com/Donkie/Spoolman). I built the REST API client communicating with [Spoolman](https://github.com/Donkie/Spoolman) - deployed via Docker + Ansible. | `C++` `ESP32` `Arduino` `Docker` `Ansible` |
 | [fpga-rsa-key-generation](https://github.com/AlexSzczygielski/fpga-rsa-key-generation) | RSA key generation in hardware — coursework from the EE side of my degree. | `FPGA` `HDL` |
 
 ## Experience
@@ -45,6 +46,6 @@ Sailing coach and instructor since 2021; I compete for AGH in national academic 
 
 </details>
 
-<!-- Optional: GitHub stats card
+<!-- GitHub stats card
 ![Stats](https://github-readme-stats.vercel.app/api?username=AlexSzczygielski&show_icons=true&theme=default&rank_icon=github)
 -->
